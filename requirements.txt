@@ -1,0 +1,6 @@
+streamlit
+pandas
+pillow
+langchain-core
+langchain-community
+langchain-ollama
